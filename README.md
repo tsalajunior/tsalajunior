@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Expense Tracker](https://github.com/tsalajunior/expense_tracker_app)
 
-- 🌱 I’m currently learning **Flask, Django, FastAPI**
+- 🌱 I’m currently learning **Django**
 
 - 🔭 I’m currently working on [International Diaspora Foundation](https://ong-idf.org/)
 
